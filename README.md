@@ -1,2 +1,7 @@
 # geo-tool
-some tools about geographic data processing.
+
+一些地理数据的处理包。
+
+多为.py或.ipynb文件，作为个人地理数据处理的存档管理箱。
+
+如果找到可以参照使用的项目，您可以随意取用。
